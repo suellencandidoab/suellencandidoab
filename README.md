@@ -1,6 +1,6 @@
 <img width=100% src="https://raw.githubusercontent.com/suellencandidoab/suellencandidoab/main/waves1.svg"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA006D&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Suellen+Cândido;I'm+17+years+old;I+High+School+student;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA006D&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Suellen+Cândido;I'm+17+years+old;I'm+a+High+School+Student;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suellencandidoab&show_icons=true&count_private=true&hide_border=true&title_color=FA006D&icon_color=FA006D&text_color=c9d1d9&bg_color=0d1117" alt="Suellen Cândido github stats" /> 
