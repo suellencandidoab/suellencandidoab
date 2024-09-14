@@ -43,5 +43,5 @@
 <br></div>
 
 
-<img width=100% src="https://raw.githubusercontent.com/suellencandidoab/suellencandidoab/main/waves2.svgr=footer"/>
+<img width=100% src="https://raw.githubusercontent.com/suellencandidoab/suellencandidoab/main/waves2.svg"/>
 
