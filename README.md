@@ -1,4 +1,4 @@
-<img width=100% src="https://raw.githubusercontent.com/suellencandidoab/suellencandidoab/main/waves.svg"/>
+<img width=100% src="https://raw.githubusercontent.com/suellencandidoab/suellencandidoab/main/waves1.svg"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA006D&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Suellen+Cândido;I'm+17+years+old;I+High+School+student;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
@@ -43,5 +43,5 @@
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://raw.githubusercontent.com/suellencandidoab/suellencandidoab/main/waves2.svgr=footer"/>
 
